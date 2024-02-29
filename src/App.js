@@ -1,11 +1,11 @@
 import React from 'react';
-import WebcamStream from './WebcamStream';
+import WebcamObjectDetection from './WebcamObjectDetection';
 
 const App = () => {
   return (
     <div>
-      <h1>Webcam Stream</h1>
-      <WebcamStream />
+      <h1>Webcam Object Detection</h1>
+      <WebcamObjectDetection />
     </div>
   );
 };
